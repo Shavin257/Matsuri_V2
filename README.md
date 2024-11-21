@@ -104,7 +104,7 @@ This bot works by using the API from openrouter. Nothing much to say, but if you
 > one `*` = important, 
 > three `*` = MUST
   ![thing](https://github.com/s16899/s16899/blob/main/guide.png)
-##### actually running it - locally
+##### actually running it - on github's codespace
 1. in the terminal, run :
    `pip install -r requirements.txt`
 2. Wait for it to be done
