@@ -120,6 +120,14 @@ Currently, here are my goals I would like to try for this project :
 - [x] Make a video about it
 - [ ] Make a video explaining how to use this github repository
 - [ ] Making an update server
+- [ ] Adding server compatibility
+- [ ] Adding extraordinary functions (eg. !resconvos - Resets your conversation with the bot)
 
 What I haven't put inside here yet : 
 - [ ] Putting in the tutorial for hosting the bot for 24 hours
+
+
+## Bot capabilities
+- [ ] Server compatible
+- [ ] Cross DMs compatible
+- [x] Single DM compatible (one user per bot)
